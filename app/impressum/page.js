@@ -5,21 +5,18 @@ const page = () => {
     <div className="flex justify-center items-center h-[600px] px-4 py-10">
         <div className="flex flex-col mb-10 text-xl text-left text-gray-800 dark:text-gray-200 w-fit gap-5">
           <h1 className="text-4xl font-semibold mb-8 text-center">Impressum</h1>
-          <p>TGG(The German Guy) UG</p>
+          <p>T. G. G. Ed Tech Consultancy Nepal</p>
           
-          <p>Mühlenweg 34a</p>
-          <p>15232 Frankfurt(Oder)</p>
-          <p>Deutschland</p>
+          <p>Lumbini Cultural Municipality-12</p>
+          <p>Rupandehi, Nepal</p>
 
-          <p>Email: <a href="mailto:contact@thegermanguy.org" className="underline">contact@thegermanguy.org</a></p>
-          <p>Fon: +49-15736112217</p>
+          <p>Email: <a href="mailto:nepal@thegermanguy.org" className="underline">nepal@thegermanguy.org</a></p>
+          <p>Fon: +977-9762739793</p>
 
-          <p>Registergericht: Amtsgericht Frankfurt(Oder)</p>
-          <p>Registernummer: HRB 21884 FF</p>
-          <p>Umsatzsteuer-Identifikationsnummer: DE459234376</p>
-          <p>Steuernummer: 061/121/02033</p>
+          <p>Registration No: 385857/82/83</p>
+          <p>PAN: 623551749</p>
 
-          <p>Geschäftsführer: <a href="https://www.linkedin.com/in/imawanish5/" className="underline">Awanish Srivastava</a></p>
+          <p>Founder: Rakesh Chandra Srivastav</p>
           </div>
     </div>
   )
