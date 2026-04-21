@@ -33,7 +33,7 @@ const About = () => {
           <p className="text-lg text-gray-700 dark:text-gray-300 mb-4">
             Recognizing the challenges faced by international students and
             professionals, such as language barriers, visa complexities, and
-            accommodation hurdles, we founded TGG (The German Guy) UG. Our mission
+            accommodation hurdles, we founded T. G. G. Ed Tech Consultancy Nepal. Our mission
             is to ease the transition for those aspiring to study or work in
             Germany.
           </p>

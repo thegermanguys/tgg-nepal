@@ -22,7 +22,7 @@ const Footer = () => {
           <Link href="/#about" className="link link-hover hover:text-blue-500">
             About
           </Link>
-          <Link href="https://thegermanguy.org/impressum" className="link link-hover hover:text-blue-500">
+          <Link href="https://nepal.thegermanguy.org/impressum" className="link link-hover hover:text-blue-500">
             Impressum
           </Link>
         </nav>
@@ -31,8 +31,7 @@ const Footer = () => {
         </div>
         <div className="text-center">
           <p>
-            Copyright © {new Date().getFullYear()} - All right reserved by TGG(The
-            German Guy) UG
+            Copyright © {new Date().getFullYear()} - All right reserved by T. G. G. Ed Tech Consultancy Nepal
           </p>
         </div>
       </div>

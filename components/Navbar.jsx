@@ -28,7 +28,7 @@ const Navbar = () => {
           {/* <Link href="/">The German Guy</Link> */}
           <Link href="/">
             <Image
-              src="/assets/TGGLogo1.png"
+              src="/assets/tggnepal-logo.png"
               alt="logo"
               className="rounded-lg h-12"
               height={150}
